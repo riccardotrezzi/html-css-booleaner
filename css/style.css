@@ -1,0 +1,60 @@
+/*Header*/
+.sfondo-header{
+    background-color: rgb(0, 157, 255);
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-size: contain;
+}
+
+#logo{
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+#titolo-articolo{
+    font-size:xx-large;
+    margin-top: 15px;
+}
+
+#sottotitolo-articolo{
+    margin-top: 5px;
+}
+
+#data-articolo{
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+#descrizioni-foto{
+    margin-top: 0px;
+}
+
+/*Main*/
+.articoli{
+    text-align: left;
+    font-weight: 400;
+}
+
+#primotesto{
+    background-color: yellow;
+}
+
+#elenco{
+    text-align:left;
+    padding-left:20px;
+}
+
+/*Tabella*/
+
+.thead{
+    width: 600px;
+    background-color: rgb(0, 157, 255);
+    color: white;
+}
+
+.thead3{
+    width: 780px;
+    background-color: rgb(0, 157, 255);
+    color: white;
+}
