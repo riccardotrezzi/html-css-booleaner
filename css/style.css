@@ -15,15 +15,17 @@
 #titolo-articolo{
     font-size:xx-large;
     margin-top: 15px;
+    margin-bottom: 0px;
 }
 
 #sottotitolo-articolo{
     margin-top: 5px;
+    margin-bottom: 0px;
 }
 
 #data-articolo{
     margin-top: 0px;
-    padding-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 #descrizioni-foto{
@@ -63,4 +65,29 @@
 
 .sfondo-azzurro-riga{
     background-color: lightblue;
+}
+
+/*Ultima sezione*/
+#ultimo-titolo{
+    color: grey;
+}
+
+#testo-foto1{
+    color:white;
+    background-image: url(../img/monitor.jpg);
+    width:312px;
+    height: 208px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+#testo-foto2{
+    color:white;
+    background-image: url(../img/graph.jpg);
+    width:312px;
+    height: 208px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 15px;
 }
