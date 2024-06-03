@@ -1,0 +1,99 @@
+/*Header*/
+
+.bonus{
+    margin-left:10%;
+    margin-right: 10%;
+    
+}
+
+.sfondo-header{
+    background-color: rgb(0, 157, 255);
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-size: contain;
+}
+
+#logo{
+    height: 60px;
+    margin-top: 25px;
+}
+
+#titolo-articolo{
+    font-size:xx-large;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+#sottotitolo-articolo{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#data-articolo{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+#descrizioni-foto{
+    margin-top: 0px;
+}
+
+/*Main*/
+.articoli{
+    text-align: left;
+    font-weight: 400;
+}
+
+#primotesto{
+    background-color: yellow;
+}
+
+#elenco{
+    text-align:left;
+    padding-left:20px;
+}
+
+/*Tabella*/
+
+#sfondo-prima-riga{
+    background-color: rgb(0, 157, 255);
+}
+.thead{
+    width: 30%;
+    color: white;
+    margin: 0px;
+}
+
+#thead3{
+    width: 40%px;
+    color: white;
+}
+
+.sfondo-azzurro-riga{
+    background-color: lightblue;
+}
+
+/*Ultima sezione*/
+#ultimo-titolo{
+    color: grey;
+}
+
+#testo-foto1{
+    color:white;
+    background-image: url(../img/monitor.jpg);
+    width:312px;
+    height: 208px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+#testo-foto2{
+    color:white;
+    background-image: url(../img/graph.jpg);
+    width:312px;
+    height: 208px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 15px;
+}
